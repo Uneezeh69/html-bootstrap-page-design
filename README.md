@@ -1,2 +1,2 @@
 # Bootstrap-design
-Bootstrap container and cards used to develop a sample design.
+Bootstrap jumbotron and cards used to develop a sample design.
